@@ -10,7 +10,7 @@ __pycache__/
 *.DS_STORE
 partidas/
 .vscode/
-farmers-protest-tweets-2021-03-5.js
+farmers-protest-tweets-2021-03-5.json
 *.mp4
 *.zip
 *.mov
