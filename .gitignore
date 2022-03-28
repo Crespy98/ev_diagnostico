@@ -1,0 +1,15 @@
+# --------------------------------------------
+# Python
+# --------------------------------------------
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+
+*.idea
+*.DS_STORE
+partidas/
+.vscode/
+*.mp4
+*.zip
+*.mov
